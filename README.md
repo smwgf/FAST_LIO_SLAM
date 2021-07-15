@@ -37,12 +37,12 @@ Integration of
 ## Example results 
 - [Tutorial video 1](https://youtu.be/nu8j4yaBMnw) (using KAIST 03 sequence of [MulRan dataset](https://sites.google.com/view/mulran-pr/dataset))
     - Example result captures 
-        <p align="center"><img src="docs/kaist03.png" width=1000></p>
+        <p align="center"><img src="docs/kaist03.png" width=700></p>
     - [download the KAIST03 pcd map](https://www.dropbox.com/s/w599ozdg7h6215q/KAIST03.pcd?dl=0) made by FAST-LIO-SLAM, 500MB
     
 - [Example Video 2](https://youtu.be/94mC05PesvQ) (Riverside 02 sequence of [MulRan dataset](https://sites.google.com/view/mulran-pr/dataset))
     - Example result captures
-        <p align="center"><img src="docs/riverside02.png" width=1000></p>
+        <p align="center"><img src="docs/riverside02.png" width=700></p>
     -  [download the Riverisde02 pcd map](https://www.dropbox.com/s/1aolth7ry4odxo4/Riverside02.pcd?dl=0) made by FAST-LIO-SLAM, 400MB
 
 ## Acknowledgements 
