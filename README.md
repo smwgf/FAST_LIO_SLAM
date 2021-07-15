@@ -12,6 +12,7 @@ Integration of
     - Finally, an optimized map is made within the SC-PGO node. 
 
 ## How to use?
+- The below commands and the launch files are made for playing the [MulRan dataset](https://sites.google.com/view/mulran-pr/home), but applicable for livox lidars in the same way (you could easily make your own launch files).
 ```
     # terminal 1: run FAST-LIO2 
     mkdir -p ~/catkin_fastlio_slam/src
@@ -34,9 +35,9 @@ Integration of
 
 
 ## Example results 
-- [Tutorial video](https://youtu.be/nu8j4yaBMnw) (using KAIST 03 sequence of [MulRan dataset](https://sites.google.com/view/mulran-pr/dataset))
+- [Tutorial video 1](https://youtu.be/nu8j4yaBMnw) (using KAIST 03 sequence of [MulRan dataset](https://sites.google.com/view/mulran-pr/dataset))
     - Example result captures 
-        - <p align="center"><img src="docs/kaist03.png" width=800></p>
+        <p align="center"><img src="docs/kaist03.png" width=1000></p>
 
 
 
