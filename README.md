@@ -36,7 +36,7 @@ Integration of
 
 ## Example results 
 - [Tutorial video 1](https://youtu.be/nu8j4yaBMnw) (using KAIST 03 sequence of [MulRan dataset](https://sites.google.com/view/mulran-pr/dataset))
-    - Example result captures 
+    - Example result captures ([download the KAIST03 pcd map (0.5G)](https://www.dropbox.com/s/w599ozdg7h6215q/KAIST03.pcd?dl=0) made by FAST-LIO-SLAM)
         <p align="center"><img src="docs/kaist03.png" width=1000></p>
 
 
