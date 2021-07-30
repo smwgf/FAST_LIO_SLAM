@@ -1,5 +1,8 @@
 # FAST_LIO_SLAM
 
+## News
+-  ``Aug 2021``: The Livox-lidar tests and corresponding launch files will be uploaded soon. Currenty only Ouster lidar tutorial videos had been made. 
+
 ## What is FAST_LIO_SLAM?
 Integration of 
 1. [FAST-LIO2](https://github.com/hku-mars/FAST_LIO) (Odometry): A computationally efficient and robust LiDAR-inertial odometry (LIO) package
